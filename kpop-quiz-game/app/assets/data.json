@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "artist": "Stray Kids",
+    "track": "S-Class",
+    "choices": ["S-Class", "Super Bowl", "Topline", "DLC"],
+    "difficulty": "easy",
+    "category": "Title Track"
+  },
+  {
+    "id": 2,
+    "artist": "Stray Kids",
+    "track": "LALALALA",
+    "choices": ["Blind Spot", "LALALALA", "Comflex", "Megaverse"],
+    "difficulty": "easy",
+    "category": "Title Track"
+  },
+  {
+    "id": 3,
+    "artist": "Stray Kids",
+    "track": "CIRCUS",
+    "choices": ["FAM", "CIRCUS", "Fairytale", "Your Eyes"],
+    "difficulty": "easy",
+    "category": "Japanese"
+  },
+  {
+    "id": 4,
+    "artist": "Stray Kids",
+    "track": "God's Menu",
+    "choices": ["Back Door", "All In", "Easy", "God's Menu"],
+    "difficulty": "easy",
+    "category": "Title Track"
+  },
+  {
+    "id": 5,
+    "artist": "Stray Kids",
+    "track": "Social Path",
+    "choices": ["Social Path", "Butterflies", "Lost Me", "Hall of Fame"],
+    "difficulty": "medium",
+    "category": "Japanese"
+  },
+  {
+    "id": 6,
+    "artist": "Stray Kids",
+    "track": "The Tortoise and the Hare",
+    "choices": ["Any", "We Go", "The Tortoise and the Hare", "Phobia"],
+    "difficulty": "hard",
+    "category": "B-Side"
+  },
+  {
+    "id": 7,
+    "artist": "Stray Kids",
+    "track": "Double Knot",
+    "choices": ["Double Knot", "Levanter", "Astronaut", "Side Effects"],
+    "difficulty": "medium",
+    "category": "Title Track"
+  },
+  {
+    "id": 8,
+    "artist": "Stray Kids",
+    "track": "3RACHA",
+    "choices": ["Heyday", "3RACHA", "Zone", "Muddy Water"],
+    "difficulty": "medium",
+    "category": "Sub-unit"
+  },
+  {
+    "id": 9,
+    "artist": "Stray Kids",
+    "track": "Case 143",
+    "choices": ["Chill", "Give Me Your TMI", "Super Board", "Case 143"],
+    "difficulty": "easy",
+    "category": "Title Track"
+  },
+  {
+    "id": 10,
+    "artist": "Stray Kids",
+    "track": "District 9",
+    "choices": ["Hellevator", "District 9", "Mirror", "Awaken"],
+    "difficulty": "medium",
+    "category": "Debut"
+  },
+  {
+    "id": 11,
+    "artist": "Stray Kids",
+    "track": "Scars",
+    "choices": ["Scars", "Call", "My Pace (Jap. Ver)", "Thunderous (Jap. Ver)"],
+    "difficulty": "medium",
+    "category": "Japanese"
+  },
+  {
+    "id": 12,
+    "artist": "Stray Kids",
+    "track": "Star Lost",
+    "choices": ["The View", "Star Lost", "Surfin'", "Gone Away"],
+    "difficulty": "hard",
+    "category": "B-Side"
+  },
+  {
+    "id": 13,
+    "artist": "Stray Kids",
+    "track": "Red Lights",
+    "choices": ["Surfin'", "Gone Away", "Red Lights", "Drive"],
+    "difficulty": "medium",
+    "category": "Sub-unit"
+  },
+  {
+    "id": 14,
+    "artist": "Stray Kids",
+    "track": "Silent Cry",
+    "choices": ["Secret Secret", "Silent Cry", "SSICK", "DOMINO"],
+    "difficulty": "hard",
+    "category": "B-Side"
+  },
+  {
+    "id": 15,
+    "artist": "Stray Kids",
+    "track": "SLUMP",
+    "choices": ["TOP", "SLUMP", "Blueprint", "Ta"],
+    "difficulty": "hard",
+    "category": "OST/Japanese"
+  },
+  {
+    "id": 16,
+    "artist": "Stray Kids",
+    "track": "Charmer",
+    "choices": ["Charmer", "Maniac", "Venom", "Muddy Water"],
+    "difficulty": "medium",
+    "category": "B-Side"
+  },
+  {
+    "id": 17,
+    "artist": "Stray Kids",
+    "track": "Winter Falls",
+    "choices": ["24 to 25", "Christmas Evel", "Winter Falls", "Scars"],
+    "difficulty": "medium",
+    "category": "Holiday/Japanese"
+  },
+  {
+    "id": 18,
+    "artist": "Stray Kids",
+    "track": "Muddy Water",
+    "choices": ["Waiting For Us", "3RACHA", "Muddy Water", "Victory Song"],
+    "difficulty": "hard",
+    "category": "Sub-unit"
+  },
+  {
+    "id": 19,
+    "artist": "Stray Kids",
+    "track": "Venom",
+    "choices": ["Venom", "Charmer", "Freeze", "Lonely St."],
+    "difficulty": "medium",
+    "category": "B-Side"
+  },
+  {
+    "id": 20,
+    "artist": "Stray Kids",
+    "track": "My Pace",
+    "choices": ["My Pace", "I am YOU", "Awkward Silence", "Get Cool"],
+    "difficulty": "easy",
+    "category": "Title Track"
+  },
+  {
+    "id": 21,
+    "artist": "Stray Kids",
+    "track": "Megaverse",
+    "choices": ["LALALALA", "Megaverse", "Blind Spot", "Cover Me"],
+    "difficulty": "medium",
+    "category": "B-Side"
+  },
+  {
+    "id": 22,
+    "artist": "Stray Kids",
+    "track": "Boxer",
+    "choices": ["Victory Song", "Boxer", "MIROH", "Maze of Memories"],
+    "difficulty": "hard",
+    "category": "B-Side"
+  },
+  {
+    "id": 23,
+    "artist": "Stray Kids",
+    "track": "Levanter",
+    "choices": ["Double Knot", "Astronaut", "Levanter", "Stop"],
+    "difficulty": "medium",
+    "category": "Title Track"
+  },
+  {
+    "id": 24,
+    "artist": "Stray Kids",
+    "track": "Get Cool",
+    "choices": ["Get Cool", "Awkward Silence", "Question", "Blueprint"],
+    "difficulty": "medium",
+    "category": "B-Side"
+  },
+  {
+    "id": 25,
+    "artist": "Stray Kids",
+    "track": "Easy",
+    "choices": ["TA", "Easy", "Haven", "Top"],
+    "difficulty": "medium",
+    "category": "B-Side"
+  },
+  {
+    "id": 26,
+    "artist": "Stray Kids",
+    "track": "Waiting For Us",
+    "choices": ["Muddy Water", "Waiting For Us", "Gone Away", "Surfin'"],
+    "difficulty": "medium",
+    "category": "Sub-unit"
+  },
+  {
+    "id": 27,
+    "artist": "Stray Kids",
+    "track": "ALL IN",
+    "choices": ["TOP", "SLUMP", "FAM", "ALL IN"],
+    "difficulty": "medium",
+    "category": "Japanese"
+  },
+  {
+    "id": 28,
+    "artist": "Stray Kids",
+    "track": "Chronosaurus",
+    "choices": ["19", "Chronosaurus", "Maze of Memories", "Road Not Taken"],
+    "difficulty": "hard",
+    "category": "B-Side"
+  },
+  {
+    "id": 29,
+    "artist": "Stray Kids",
+    "track": "Side Effects",
+    "choices": ["Road Not Taken", "Side Effects", "TMT", "MIROH"],
+    "difficulty": "medium",
+    "category": "Title Track"
+  },
+  {
+    "id": 30,
+    "artist": "Stray Kids",
+    "track": "Topline",
+    "choices": ["S-Class", "Topline", "Super Bowl", "DLC"],
+    "difficulty": "medium",
+    "category": "B-Side"
+  }
+]

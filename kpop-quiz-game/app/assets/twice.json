@@ -1,0 +1,12 @@
+[
+    { "id": 1, "artist": "TWICE", "track": "Set Me Free", "choices": ["Moonlight Sunrise", "Set Me Free", "Talk that Talk", "I CAN'T STOP ME"], "category": "Title Track" },
+    { "id": 2, "artist": "TWICE", "track": "Talk that Talk", "choices": ["The Feels", "Talk that Talk", "Scientist", "Alcohol-Free"], "category": "Title Track" },
+    { "id": 3, "artist": "TWICE", "track": "I CAN'T STOP ME", "choices": ["CRY FOR ME", "I CAN'T STOP ME", "Fancy", "Feel Special"], "category": "Title Track" },
+    { "id": 4, "artist": "TWICE", "track": "Feel Special", "choices": ["Fancy", "Feel Special", "Yes or Yes", "What is Love?"], "category": "Title Track" },
+    { "id": 5, "artist": "TWICE", "track": "Fancy", "choices": ["Fancy", "Breakthrough", "Happy Happy", "Dance The Night Away"], "category": "Title Track" },
+    { "id": 6, "artist": "TWICE", "track": "The Feels", "choices": ["Moonlight Sunrise", "The Feels", "Candy", "Icon"], "category": "English Single" },
+    { "id": 7, "artist": "TWICE", "track": "Alcohol-Free", "choices": ["Alcohol-Free", "Perfect World", "Kura Kura", "Doughnut"], "category": "Title Track" },
+    { "id": 8, "artist": "TWICE", "track": "Scientist", "choices": ["Scientist", "Last Waltz", "Espresso", "Moonlight"], "category": "Title Track" },
+    { "id": 9, "artist": "TWICE", "track": "What is Love?", "choices": ["What is Love?", "Signal", "Knock Knock", "TT"], "category": "Title Track" },
+    { "id": 10, "artist": "TWICE", "track": "Hare Hare", "choices": ["Hare Hare", "Celebrate", "Doughnut", "Perfect World"], "category": "Japanese Single" }
+  ]

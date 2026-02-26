@@ -1,0 +1,12 @@
+[
+    { "id": 1, "artist": "DAY6", "track": "Welcome to the Show", "choices": ["Welcome to the Show", "You Were Beautiful", "Time of Our Life", "Zombie"], "category": "Title Track" },
+    { "id": 2, "artist": "DAY6", "track": "You Were Beautiful", "choices": ["Congratulations", "You Were Beautiful", "I Loved You", "I Like You"], "category": "Title Track" },
+    { "id": 3, "artist": "DAY6", "track": "Time of Our Life", "choices": ["Time of Our Life", "Sweet Chaos", "Shoot Me", "Days Gone By"], "category": "Title Track" },
+    { "id": 4, "artist": "DAY6", "track": "Congratulations", "choices": ["Congratulations", "Letting Go", "I Wait", "How Can I Say"], "category": "Debut" },
+    { "id": 5, "artist": "DAY6", "track": "Zombie", "choices": ["Love me or Leave me", "Zombie", "Tick Tock", "Healer"], "category": "Title Track" },
+    { "id": 6, "artist": "DAY6", "track": "Shoot Me", "choices": ["Shoot Me", "Warning!", "Feeling Good", "Talking To"], "category": "Title Track" },
+    { "id": 7, "artist": "DAY6", "track": "Sweet Chaos", "choices": ["Rescue Me", "Sweet Chaos", "Deep in Love", "Emergency"], "category": "Title Track" },
+    { "id": 8, "artist": "DAY6", "track": "I Wait", "choices": ["I Wait", "I Loved You", "When You Love Someone", "All Alone"], "category": "Every DAY6" },
+    { "id": 9, "artist": "DAY6", "track": "Days Gone By", "choices": ["Days Gone By", "So Cool", "Marathon", "Beautiful Feeling"], "category": "Title Track" },
+    { "id": 10, "artist": "DAY6", "track": "Happy", "choices": ["Happy", "Welcome to the Show", "Power of Love", "Get Lucky"], "category": "B-Side" }
+  ]
