@@ -4,18 +4,15 @@ import songsData from "../assets/day6.json";
 import Link from "next/link";
 
 export default function Game() {
-  // --- ESTADOS DO JOGO ---
   const [currentIndex, setCurrentIndex] = useState(0);
   const [songInfo, setSongInfo] = useState<any>(null);
   const [isPlaying, setIsPlaying] = useState(false);
   const [isRevealed, setIsRevealed] = useState(false);
   const [score, setScore] = useState(0);
   const [highScore, setHighScore] = useState(0);
-
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const currentSong = songsData ? songsData[currentIndex] : null;
 
-  // --- CARREGAR RECORDE ---
   useEffect(() => {
     const savedRecord = localStorage.getItem("itzy-quiz-highscore");
     if (savedRecord) {
@@ -23,7 +20,6 @@ export default function Game() {
     }
   }, []);
 
-  // --- BUSCAR MÚSICA NA API ---
   useEffect(() => {
     if (!currentSong) return;
 
@@ -32,7 +28,6 @@ export default function Game() {
       setIsRevealed(false);
       try {
         const trackName = currentSong.track;
-        // Passando "Stray Kids" explicitamente para a API
         const response = await fetch(
           `/api/songs?track=${encodeURIComponent(trackName)}&artist=DAY6`
         );
@@ -60,7 +55,6 @@ export default function Game() {
 
   return (
     <div className="relative flex flex-col items-center justify-center min-h-screen p-4 bg-black text-white overflow-hidden">
-      {/* IMAGEM DE FUNDO (SKZ) */}
       <div
         className="absolute inset-0 z-0 bg-cover bg-center transition-all duration-1000"
         style={{
@@ -69,7 +63,6 @@ export default function Game() {
         }}
       />
 
-      {/* BOTÃO VOLTAR */}
       <Link
         href="/"
         className="fixed top-4 left-4 z-50 bg-yellow-600/10 backdrop-blur-md p-2 rounded-lg border border-yellow-500/30 text-yellow-500 hover:bg-yellow-500 hover:text-black transition-all"
@@ -94,7 +87,6 @@ export default function Game() {
         </div>
       </div>
 
-      {/* LOGO DO ARTISTA (BRANCO COM GLOW AMARELO) */}
       <div className="relative z-10 flex flex-col items-center mb-8">
         <p className="text-[10px] tracking-[0.5em] font-light text-yellow-500 mt-2 uppercase">
           XIDINARY HEROES
@@ -114,7 +106,6 @@ export default function Game() {
               </span>
             </div>
 
-            {/* IMAGEM DO ALBUM (REVELAÇÃO) */}
             <div className="relative w-56 h-56 md:w-72 md:h-72 mb-2">
               <img
                 src={songInfo.artwork}
